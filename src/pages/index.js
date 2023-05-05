@@ -10,13 +10,21 @@ const StyledMainContainer = styled(Main)`
 `;
 
 const IndexPage = ({ location, data }) => (
+  // <Layout location={location}>
+  //   <StyledMainContainer className="fillHeight">
+  //     <Hero data={data.hero.edges} />
+  //     <About data={data.about.edges} />
+  //     <Jobs data={data.jobs.edges} />
+  //     <Featured data={data.featured.edges} />
+  //     <Projects data={data.projects.edges} />
+  //     <Contact data={data.contact.edges} />
+  //   </StyledMainContainer>
+  // </Layout>
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
-      <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />
     </StyledMainContainer>
   </Layout>

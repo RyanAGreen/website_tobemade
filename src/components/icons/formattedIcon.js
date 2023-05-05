@@ -2,12 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import {
   IconAppStore,
-  IconCodepen,
+  IconGoogleScholar,
   IconExternal,
   IconFolder,
   IconFork,
   IconGitHub,
-  IconInstagram,
+  IconOrcid,
   IconLinkedin,
   IconLoader,
   IconLocation,
@@ -22,8 +22,8 @@ const FormattedIcon = ({ name }) => {
   switch (name) {
     case 'AppStore':
       return <IconAppStore />;
-    case 'Codepen':
-      return <IconCodepen />;
+    case 'GoogleScholar':
+      return <IconGoogleScholar />;
     case 'External':
       return <IconExternal />;
     case 'Folder':
@@ -32,8 +32,8 @@ const FormattedIcon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
-    case 'Instagram':
-      return <IconInstagram />;
+    case 'Orcid':
+      return <IconOrcid />;
     case 'Linkedin':
       return <IconLinkedin />;
     case 'Loader':

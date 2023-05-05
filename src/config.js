@@ -1,39 +1,39 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Ryan Green | Biogeochemical Modeler | mCDR research',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Ryan Green is a Ph.D. candidate at UC Santa Cruz, researching marine carbon dioxide removal methods.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Ryan A. Green, Ryan, Green, RyanAGreen, biogeochemical modeler, carbonate chemistry, carbon dioxide removal, ROMS, marine carbon dioxide removal, ocean alkalinity enhancement, UC Santa Cruz, marine biogeochemistry',
+  siteUrl: 'https://ryanagreen.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Ryan Green',
+  location: 'Santa Cruz, California',
+  email: 'rygreen@ucsc.edu',
+  github: 'https://github.com/RyanAGreen',
+  // twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/RyanAGreen',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/ryangreenphd/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      name: 'GoogleScholar',
+      url: 'https://scholar.google.com/citations?user=7KzOK8MAAAAJ&hl=en',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      name: 'Orcid',
+      url: 'https://orcid.org/0000-0002-2411-8025',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/chandrikadeb7',
+    // },
   ],
 
   navLinks: [
@@ -45,10 +45,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Projects',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Projects',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',

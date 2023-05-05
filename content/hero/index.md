@@ -1,12 +1,11 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: 'Ryan A. Green'
+subtitle: 'Pioneering climate solutions through mCDR research.'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm a Ph.D. candidate at the University of California, Santa Cruz in the [Earth System Biogeochemistry Group](https://earth-system-biogeochemistry.net/).
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+I use biogeochemical modeling to research marine carbon dioxide removal (mCDR), specifically through [ocean alkalinity enhancement](https://www.dosi-project.org/wp-content/uploads/Alkalinity-Enhancement-Policy-Brief.pdf).
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
