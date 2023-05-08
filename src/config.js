@@ -45,10 +45,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    // {
-    //   name: 'Projects',
-    //   url: '/#projects',
-    // },
+    {
+      name: 'Research',
+      url: '/#projects',
+    },
     {
       name: 'Contact',
       url: '/#contact',
@@ -62,6 +62,13 @@ module.exports = {
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
+
+  // these are practice colors
+  //   colors: {
+  //   green: '#F5DEB3',
+  //   navy: '#008080',
+  //   darkNavy: '#003366',
+  // },
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
