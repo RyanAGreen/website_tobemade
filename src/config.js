@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Ryan Green | Biogeochemical Modeler | mCDR research',
+  siteTitle: 'Ryan Green | Biogeochemical modeler | mCDR research',
   siteDescription:
     'Ryan Green is a Ph.D. candidate at UC Santa Cruz, researching marine carbon dioxide removal methods.',
   siteKeywords:
@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://ryanagreen.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'wWnLGP99FdHTS4k53fbEgcv-KFvCBqrAOcFaANyKA9k',
   name: 'Ryan Green',
   location: 'Santa Cruz, California',
   email: 'rygreen@ucsc.edu',
