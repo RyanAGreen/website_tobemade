@@ -4,4 +4,4 @@ buttonText: 'Say Hello'
 ---
 
 
-I will be finishing my Ph.D. next summer and will be looking for work in the mCDR field. If you're interested in learning more about my research or connecting with me, please reach out!
+I will be finishing my Ph.D. next summer and looking for work in the mCDR field. If you're interested in learning more about my research or connecting with me, please reach out!

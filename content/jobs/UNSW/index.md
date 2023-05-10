@@ -10,4 +10,4 @@ url: 'https://www.unsw.edu.au/research/ccrc'
 
 - I worked with [Prof. Katrin Meissner](https://katrinmeissner.org/) and [Prof. Laurie Menviel](https://scholar.google.com/citations?user=gHh0AfoAAAAJ&hl=en)
 
-- We analyzed seasonal sea-ice cover at the Last Glacial Maximum (LGM), to determine the most likely summer and winter sea-ice edge. Additionally, we constrained the mechanisms controlling sea ice in PMIP3 and PMIP4 models.
+- We analyzed seasonal sea-ice cover at the Last Glacial Maximum (LGM), to determine the most likely summer and winter sea-ice edge. Additionally, we constrained the mechanisms controlling sea ice in the PMIP3 and PMIP4 simulations.
