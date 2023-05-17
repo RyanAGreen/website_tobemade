@@ -11,8 +11,9 @@ module.exports = {
   name: 'Ryan Green',
   location: 'Santa Cruz, California',
   email: 'rygreen@ucsc.edu',
-  github: 'https://github.com/RyanAGreen',
-  // twitterHandle: '@chandrikadeb7',
+  // github: 'https://github.com/RyanAGreen',
+  linkedin : 'https://www.linkedin.com/in/ryangreenphd/',
+
   socialMedia: [
     {
       name: 'GitHub',
