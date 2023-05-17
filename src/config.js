@@ -6,7 +6,7 @@ module.exports = {
     'Ryan A. Green, Ryan, Green, RyanAGreen, biogeochemical modeler, carbonate chemistry, carbon dioxide removal, ROMS, marine carbon dioxide removal, ocean alkalinity enhancement, UC Santa Cruz, marine biogeochemistry',
   siteUrl: 'https://ryanagreen.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-L26XV0TNSL',
   googleVerification: 'wWnLGP99FdHTS4k53fbEgcv-KFvCBqrAOcFaANyKA9k',
   name: 'Ryan Green',
   location: 'Santa Cruz, California',
