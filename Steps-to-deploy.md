@@ -19,6 +19,8 @@
   - git add .
 
   - git commit -am "changes"
+  
+  (I think if I make changes I only need to do the final two steps)
 
   - gatsby build
 
