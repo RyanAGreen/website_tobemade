@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Published in [*Geophysical Research Letters*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108271).
+Published in [*Geophysical Research Letters*.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108271)
