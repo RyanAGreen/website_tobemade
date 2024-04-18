@@ -1,13 +1,14 @@
 ---
-date: '2023-04-22'
-title: 'Neutralized Carbon Added During the Last Deglaciation'
+date: '2024-04-18'
+title: 'Deglacial Pulse of Neutralized Carbon From the Pacific Seafloor: A Natural Analog for Ocean Alkalinity Enhancement?'
 github: ''
-external: 'https://www.authorea.com/doi/full/10.22541/essoar.168286659.92261243'
+external: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108271'
 tech:
-  - Neutralized Carbon
   - Deglaciation
   - ∆14C anomalies
+  - Natural analog
+  - OAE
 showInProjects: true
 ---
 
-Currently under review at *Geophysical Research Letters*, but the preprint is available at [Authorea](https://www.authorea.com/doi/full/10.22541/essoar.168286659.92261243).
+Published in [*Geophysical Research Letters*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108271).
