@@ -1,6 +1,6 @@
 ---
 date: '2022-04-20'
-title: 'Evaluating Seasonal Sea-ice Cover at the LGM'
+title: 'Evaluating seasonal sea-ice cover over the Southern Ocean at the Last Glacial Maximum'
 # github: 'https://cp.copernicus.org/articles/18/845/2022/'
 external: 'https://cp.copernicus.org/articles/18/845/2022/'
 tech:
