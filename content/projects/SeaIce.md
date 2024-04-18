@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Published in [*Climate of the Past*.](https://cp.copernicus.org/articles/18/845/2022/).
+Published in [*Climate of the Past*](https://cp.copernicus.org/articles/18/845/2022/).
