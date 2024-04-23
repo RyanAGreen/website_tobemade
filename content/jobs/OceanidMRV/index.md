@@ -2,7 +2,7 @@
 date: '2022-07-07'
 title: 'mCDR Consultant'
 company: 'Oceanid MRV'
-range: 'June 2023 - Present'
+range: 'June 2023 - March 2024'
 url: 'https://www.oceanidmrv.com/'
 ---
 
