@@ -1,9 +1,9 @@
 ---
-date: '2022-07-07'
-title: 'mCDR Consultant'
-company: 'Oceanid MRV'
-range: 'June 2023 - March 2024'
-url: 'https://www.oceanidmrv.com/'
+date: '2023-09-07'
+title: 'Oceanography Consultant'
+company: 'Oceanid MRV / Oceanid Climate and Carbon Solutions'
+range: 'June 2023 - Present'
+url: 'https://www.oceanidccs.com/'
 ---
 
 - Providing scientific expertise on ocean carbon cycling and carbonate chemistry
